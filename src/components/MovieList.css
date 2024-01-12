@@ -1,0 +1,10 @@
+.movie-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .movie-card {
+    width: 30%; /* lezm les photos ikounou kol fared dimenssion wla le ??? */
+    margin-bottom: 20px;
+  }

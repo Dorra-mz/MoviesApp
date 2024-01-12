@@ -1,0 +1,20 @@
+.filter {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #141414;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .filter label {
+    margin-right: 10px;
+    color: #fff;
+  }
+  
+  .filter input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
